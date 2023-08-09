@@ -1,70 +1,28 @@
-# Getting Started with Create React App
+<h1 align="center">Finance Tracker Application</h1>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![complete home page](https://github.com/nikhil-rawat02/financely-track-finance/assets/117645790/85562cef-09a4-4330-b884-1c7a340926ff)
 
-## Available Scripts
+### About
+<p>This application allows the user to maintain a computerized diary. Expense tracker application which will keep a track of Expenses of a user on a dayto-day basis. This application keeps a record of your expenses and also will give you a category wise distribution of your expenses. With the help of this application user can track their daily/weekly/monthly expenses. This application will also have a feature which will help you stay on budget because you know your expenses. Expense tracker application will generate report in csv format to verify data to show Expense via a graphical representation. We also have added a special feature you can import your data on one go with help of .csv format </p>
 
-In the project directory, you can run:
+### Screen shots
+## Singup Page
+![signup](https://github.com/nikhil-rawat02/financely-track-finance/assets/117645790/4e025cd6-d9b0-4fc3-9647-6c86b1327817)
 
-### `npm start`
+## Login Page
+![login](https://github.com/nikhil-rawat02/financely-track-finance/assets/117645790/16e0f54c-f9fb-4422-8efb-4676bab1a26c)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## dashboard user's action section
+![home 1](https://github.com/nikhil-rawat02/financely-track-finance/assets/117645790/0b194216-138e-4467-882a-e98f6ea476ee)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Add income Popup
+![add income popup](https://github.com/nikhil-rawat02/financely-track-finance/assets/117645790/23e9087d-f5d4-4681-92b3-f827297e2a60)
 
-### `npm test`
+## Add expenses Popup
+![add expense popup](https://github.com/nikhil-rawat02/financely-track-finance/assets/117645790/d3e31c5b-98d5-4f99-aff6-724a7a8670d4)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Visual repensetation of data in graph and pie chart
+![home 2](https://github.com/nikhil-rawat02/financely-track-finance/assets/117645790/af8416da-3c49-4b81-9b79-0d84fb8843a4)
 
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+##  Visual repensetation of data in table
+![home 3](https://github.com/nikhil-rawat02/financely-track-finance/assets/117645790/563ff578-0dc6-4a3a-b3b0-8f7ba7c3c8c1)
